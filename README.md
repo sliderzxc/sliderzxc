@@ -3,7 +3,6 @@ Hi there 👋
 I am android developer ⚡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliderzxc&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sliderzxc&theme=radical&layout=compact&langs_count=6)
 
 
