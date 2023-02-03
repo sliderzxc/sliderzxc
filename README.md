@@ -1,6 +1,6 @@
 Hi there 👋
 
-I am android developer ⚡
+I am android, kotlin, java, developer ⚡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliderzxc&show_icons=true&theme=radical)
 
