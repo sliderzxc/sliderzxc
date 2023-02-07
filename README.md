@@ -9,4 +9,4 @@ I am android, kotlin, java, developer ⚡
 
 ### Contact me 🔗
 
-- <a href="https://vadymhrynyk.netlify.app"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width=14 height=14 /> My profile card site</a>
+- <a href="https://vadymhrynyk.netlify.app"><img src="https://icon-library.com/images/website-icon-transparent/website-icon-transparent-26.jpg" width=14 height=14 /> My profile card site</a>
