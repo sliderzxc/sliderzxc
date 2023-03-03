@@ -1,6 +1,9 @@
-Hi there 👋
+<h1 align="center"> Hi there, I'm Nikita</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Android developer from Ukraine</h3>
 
-I am android, kotlin, java, developer ⚡
+<h3 align="left">Languages:</h3>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sliderzxc&show_icons=true&theme=radical)
 
