@@ -1,6 +1,4 @@
 # My stack
-> **Note** <br>
-> Some of the frameworks / libraries marked as a link with open-source examples that is authored by me.
 ## Kotlin, Android
 
 ### Design:
