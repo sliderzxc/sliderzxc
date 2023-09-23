@@ -14,8 +14,9 @@
 - MVC
 
 ### Backend:
-- Ktoor
-- gRPC
+- Ktor
+- [rSocket](https://github.com/timemates/backend)
+- [gRPC](https://github.com/timemates/backend)
 - Exposed
 
 ### Web
