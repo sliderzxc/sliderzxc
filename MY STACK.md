@@ -1,9 +1,20 @@
 # My stack
-## Kotlin, Android
+## Kotlin, Java, Android
 
 ### Design:
 - XML (with ViewBinding / DataBinding)
 - Jetpack Compose
+- Figma, Canva
+
+### Android
+- Android SDK
+- Gradle
+- NavigationComponent
+- Di (Dagger, Hilt, Koin)
+- Testing (Unit, UI)
+- Retrofit, OkHttp2
+- Coroutines, RxJava2, Flow, LiveData
+- Agora, ChatSDK, OneSignal
 
 ### Architectures:
 - MVVM
@@ -13,15 +24,37 @@
 
 ### Backend:
 - Ktor
-- [rSocket](https://github.com/timemates/backend)
-- [gRPC](https://github.com/timemates/backend)
+- rSocket
+- REST
+- gRPC
 - Exposed
 
 ### Web
-- [kobweb](https://github.com/sliderzxc/MyWebSite) (Compose for Web)
+- kobweb
 - kvision
 
+### Database and Datastore:
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQLite
+- Room
+- SharedPreferences
+
 ### Multiplatform
-- [Compose Multiplatform](https://github.com/CinematicaTech/client)
+- Compose Multiplatform
 - SQLDelight
 - Decompose
+
+### Principies of Programming
+- Clean Acrhitecute 
+- MultiModule Architecture
+- Clean Code
+- Solid
+- OOP
+
+### Tools
+- Git
+- Github
+- Firebase
+- ChatGPT
