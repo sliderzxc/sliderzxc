@@ -15,6 +15,7 @@
 - Retrofit, OkHttp2
 - Coroutines, RxJava2, Flow, LiveData
 - Agora, ChatSDK, OneSignal
+- Paging2
 
 ### Architectures:
 - MVVM
