@@ -23,6 +23,9 @@
 <a href="https://discord.com/users/885930861613170708" target="blank"><img align="center" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" alt="sliderzxc" height="40" width="40" /></a>
 </p>
 
+## My stack
+You can check it out [there](MY%20STACK.md).
+
 <h3 align="left">My activities</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sliderzxc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sliderzxc" /></p>
