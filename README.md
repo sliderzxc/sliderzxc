@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sliderzxc&label=Profile%20views&color=0e75b6&style=flat" alt="sliderzxc" /> </p>
 
-- 🔭 I’m currently working on [Fradar](https://github.com/sliderzxc/Fradar)
+- 🔭 I’m currently working on [kotlin-project-wizard](https://github.com/sliderzxc/kotlin-project-wizard)
 
 - 🌱 I’m currently learning **Jetpack Compose and KMM**
 
-- 💬 Ask me about **Android, Kotlin, Java**
+- 💬 Ask me about **Android, Kotlin, Java, Gradle**
 
 - 📫 How to reach me **dev.sliderzxc@gmail.com**
 
@@ -29,4 +29,6 @@ You can check it out [there](MY%20STACK.md).
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sliderzxc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sliderzxc" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sliderzxc&show_icons=true&locale=en&theme=tokyonight" alt="sliderzxc" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sliderzxc&&theme=tokyonight" alt="sliderzxc" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sliderzxc&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
