@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sliderzxc&label=Profile%20views&color=0e75b6&style=flat" alt="sliderzxc" /> </p>
 
-- 🔭 I’m currently working on [kotlin-project-wizard](https://github.com/sliderzxc/kotlin-project-wizard)
+- 🔭 I’m currently working on [XBIKE](https://github.com/sliderzxc/XBIKE)
 
-- 🌱 I’m currently learning **Jetpack Compose and KMM**
+- 🌱 I’m currently learning **Jetpack Compose and KMP**
 
 - 💬 Ask me about **Android, Kotlin, Java, Gradle**
 
