@@ -23,6 +23,10 @@
 ## My stack
 You can check it out [there](MY%20STACK.md).
 
+> **👨🏻‍💻 Looking for Job Opportunities** <br>
+> I'm a Kotlin software engineer with expertise in Android and Multiplatform development, actively seeking exciting job opportunities. You can refer to the [my LinkedIn profile](https://www.linkedin.com/in/vadickkt/) for details about me.
+##
+
 <h3 align="left">My activities</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sliderzxc&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sliderzxc" /></p>
